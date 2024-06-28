@@ -1,0 +1,6 @@
+2024-05-30 10:12:22.8565 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-05-30 10:12:22.8627 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-30 10:12:22.8627 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'lifetimeConsole' not found for logging rule: Microsoft.Hosting.Lifetime.
+2024-05-30 10:12:22.8627 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-30 10:12:22.8627 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\step\ASP.net\logSample\NLog.config
+2024-05-30 10:12:22.8782 Info Configuration initialized.

@@ -1,0 +1,27 @@
+D:\step\ASP.net\first app(27.05)\first app\first app\bin\Debug\net8.0\appsettings.Development.json
+D:\step\ASP.net\first app(27.05)\first app\first app\bin\Debug\net8.0\appsettings.json
+D:\step\ASP.net\first app(27.05)\first app\first app\bin\Debug\net8.0\first app.exe
+D:\step\ASP.net\first app(27.05)\first app\first app\bin\Debug\net8.0\first app.deps.json
+D:\step\ASP.net\first app(27.05)\first app\first app\bin\Debug\net8.0\first app.runtimeconfig.json
+D:\step\ASP.net\first app(27.05)\first app\first app\bin\Debug\net8.0\first app.dll
+D:\step\ASP.net\first app(27.05)\first app\first app\bin\Debug\net8.0\first app.pdb
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\first app.GeneratedMSBuildEditorConfig.editorconfig
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\first app.AssemblyInfoInputs.cache
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\first app.AssemblyInfo.cs
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\first app.csproj.CoreCompileInputs.cache
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\first app.MvcApplicationPartsAssemblyInfo.cache
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\first app.RazorAssemblyInfo.cache
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\first app.RazorAssemblyInfo.cs
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\staticwebassets.build.json
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\staticwebassets.development.json
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\staticwebassets\msbuild.first app.Microsoft.AspNetCore.StaticWebAssets.props
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\staticwebassets\msbuild.build.first app.props
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.first app.props
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.first app.props
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\staticwebassets.pack.json
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\scopedcss\bundle\first app.styles.css
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\first app.dll
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\refint\first app.dll
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\first app.pdb
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\first app.genruntimeconfig.cache
+D:\step\ASP.net\first app(27.05)\first app\first app\obj\Debug\net8.0\ref\first app.dll

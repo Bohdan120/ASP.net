@@ -1,0 +1,26 @@
+﻿@model PersonalInfo
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.LastName)
+        @Html.TextBoxFor(m => m.LastName)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.FirstName)
+        @Html.TextBoxFor(m => m.FirstName)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Age)
+        @Html.TextBoxFor(m => m.Age)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Specialization)
+        @Html.TextBoxFor(m => m.Specialization)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.ContactInfo)
+        @Html.TextBoxFor(m => m.ContactInfo)
+    </div>
+    <button type="submit">Next</button>
+}

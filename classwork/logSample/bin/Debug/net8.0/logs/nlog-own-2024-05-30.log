@@ -1,0 +1,7 @@
+2024-05-30 10:12:23.0052|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7289 |url: |action: 
+2024-05-30 10:12:23.0052|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5042 |url: |action: 
+2024-05-30 10:12:23.0052|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-05-30 10:12:23.0052|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-05-30 10:12:23.0052|0|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\step\ASP.net\logSample |url: |action: 
+2024-05-30 10:12:23.3746|1|DEBUG|logSample.Controllers.HomeController|NLog injected into homecontroller |url: https://localhost/|action: Index
+2024-05-30 10:12:23.3746|0|INFO|logSample.Controllers.HomeController|Run index... |url: https://localhost/|action: Index

@@ -1,0 +1,20 @@
+﻿@using System.Reflection
+@model IEnumerable<Product>
+<table>
+    <tr>
+        @{
+            foreach (PropertyInfo propertyInfo in typeof(Product).GetProperties())
+            {
+                <th>@propertyInfo.Name</th>
+            }
+        }
+    </tr>
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Name</td>
+            <td>@p.Price</td>
+        </tr>
+    }
+</table>

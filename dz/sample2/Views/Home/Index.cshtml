@@ -1,0 +1,16 @@
+﻿@model Product
+
+@using(Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    <p>
+        @Html.LabelFor(p=>p.Name, "Name")
+        @Html.TextBoxFor(p => p.Name, "Name")
+    </p>
+    <p>
+        @Html.LabelFor(p => p.Price, "Price")
+        @Html.TextBoxFor(p => p.Price, "", new{type = "number"})
+    </p>
+    <p>
+        <input type="submit" value = "Send" />
+    </p>
+}

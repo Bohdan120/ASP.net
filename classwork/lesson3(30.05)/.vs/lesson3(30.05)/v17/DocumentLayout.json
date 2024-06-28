@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\step\\ASP.net\\lesson3(30.05)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB67FAEA-AA2B-44EA-9C5A-3375F326E650}|..\\FormSample\\FormSample.csproj|d:\\step\\asp.net\\formsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB67FAEA-AA2B-44EA-9C5A-3375F326E650}|..\\FormSample\\FormSample.csproj|d:\\step\\asp.net\\formsample\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB67FAEA-AA2B-44EA-9C5A-3375F326E650}|..\\FormSample\\FormSample.csproj|d:\\step\\asp.net\\formsample\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB67FAEA-AA2B-44EA-9C5A-3375F326E650}|..\\FormSample\\FormSample.csproj|d:\\step\\asp.net\\formsample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB67FAEA-AA2B-44EA-9C5A-3375F326E650}|..\\FormSample\\FormSample.csproj|d:\\step\\asp.net\\formsample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB67FAEA-AA2B-44EA-9C5A-3375F326E650}|..\\FormSample\\FormSample.csproj|d:\\step\\asp.net\\formsample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB67FAEA-AA2B-44EA-9C5A-3375F326E650}|..\\FormSample\\FormSample.csproj|d:\\step\\asp.net\\formsample\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB67FAEA-AA2B-44EA-9C5A-3375F326E650}|..\\FormSample\\FormSample.csproj|D:\\step\\ASP.net\\FormSample\\Migrations\\20240530084033_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB67FAEA-AA2B-44EA-9C5A-3375F326E650}|..\\FormSample\\FormSample.csproj|d:\\step\\asp.net\\formsample\\migrations\\20240530084141_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB67FAEA-AA2B-44EA-9C5A-3375F326E650}|..\\FormSample\\FormSample.csproj|d:\\step\\asp.net\\formsample\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\FormSample\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FormSample\\Program.cs",
+              "ToolTip": "D:\\step\\ASP.net\\FormSample\\Program.cs",
+              "RelativeToolTip": "..\\FormSample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:46:45.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\FormSample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\FormSample\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\step\\ASP.net\\FormSample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\FormSample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:27:16.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\FormSample\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "..\\FormSample\\Models\\MyDbContext.cs",
+              "ToolTip": "D:\\step\\ASP.net\\FormSample\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "..\\FormSample\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:20:22.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\FormSample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "..\\FormSample\\Models\\Person.cs",
+              "ToolTip": "D:\\step\\ASP.net\\FormSample\\Models\\Person.cs",
+              "RelativeToolTip": "..\\FormSample\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:33:57.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\FormSample\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "..\\FormSample\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\step\\ASP.net\\FormSample\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "..\\FormSample\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:40:56.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\step\\ASP.net\\FormSample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\FormSample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\step\\ASP.net\\FormSample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\FormSample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T08:27:39.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\FormSample\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\FormSample\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\step\\ASP.net\\FormSample\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\FormSample\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:25:11.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240530084033_first.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\FormSample\\Migrations\\20240530084033_first.cs",
+              "RelativeDocumentMoniker": "..\\FormSample\\Migrations\\20240530084033_first.cs",
+              "ToolTip": "D:\\step\\ASP.net\\FormSample\\Migrations\\20240530084033_first.cs",
+              "RelativeToolTip": "..\\FormSample\\Migrations\\20240530084033_first.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:40:33.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240530084141_second.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\FormSample\\Migrations\\20240530084141_second.cs",
+              "RelativeDocumentMoniker": "..\\FormSample\\Migrations\\20240530084141_second.cs",
+              "ToolTip": "D:\\step\\ASP.net\\FormSample\\Migrations\\20240530084141_second.cs",
+              "RelativeToolTip": "..\\FormSample\\Migrations\\20240530084141_second.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:41:41.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\step\\ASP.net\\FormSample\\Views\\Person\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\FormSample\\Views\\Person\\Index.cshtml",
+              "ToolTip": "D:\\step\\ASP.net\\FormSample\\Views\\Person\\Index.cshtml",
+              "RelativeToolTip": "..\\FormSample\\Views\\Person\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T08:31:59.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

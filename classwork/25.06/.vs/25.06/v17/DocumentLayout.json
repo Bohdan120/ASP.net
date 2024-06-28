@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\step\\ASP.net\\classwork\\25.06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A61F2B-2093-46A2-B4A5-A67FB931BCA1}|25.06.csproj|d:\\step\\asp.net\\classwork\\25.06\\infrastructure\\logurlmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A61F2B-2093-46A2-B4A5-A67FB931BCA1}|25.06.csproj|solutionrelative:infrastructure\\logurlmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A61F2B-2093-46A2-B4A5-A67FB931BCA1}|25.06.csproj|d:\\step\\asp.net\\classwork\\25.06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A61F2B-2093-46A2-B4A5-A67FB931BCA1}|25.06.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A61F2B-2093-46A2-B4A5-A67FB931BCA1}|25.06.csproj|d:\\step\\asp.net\\classwork\\25.06\\infrastructure\\routingmidleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A61F2B-2093-46A2-B4A5-A67FB931BCA1}|25.06.csproj|solutionrelative:infrastructure\\routingmidleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A61F2B-2093-46A2-B4A5-A67FB931BCA1}|25.06.csproj|d:\\step\\asp.net\\classwork\\25.06\\infrastructure\\tokenmidleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A61F2B-2093-46A2-B4A5-A67FB931BCA1}|25.06.csproj|solutionrelative:infrastructure\\tokenmidleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A61F2B-2093-46A2-B4A5-A67FB931BCA1}|25.06.csproj|d:\\step\\asp.net\\classwork\\25.06\\infrastructure\\tokenextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A61F2B-2093-46A2-B4A5-A67FB931BCA1}|25.06.csproj|solutionrelative:infrastructure\\tokenextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogURLMiddleware.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\classwork\\25.06\\Infrastructure\\LogURLMiddleware.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LogURLMiddleware.cs",
+              "ToolTip": "D:\\step\\ASP.net\\classwork\\25.06\\Infrastructure\\LogURLMiddleware.cs",
+              "RelativeToolTip": "Infrastructure\\LogURLMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:28:37.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenMidleware.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\classwork\\25.06\\Infrastructure\\TokenMidleware.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\TokenMidleware.cs",
+              "ToolTip": "D:\\step\\ASP.net\\classwork\\25.06\\Infrastructure\\TokenMidleware.cs",
+              "RelativeToolTip": "Infrastructure\\TokenMidleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:08:04.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoutingMidleware.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\classwork\\25.06\\Infrastructure\\RoutingMidleware.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\RoutingMidleware.cs",
+              "ToolTip": "D:\\step\\ASP.net\\classwork\\25.06\\Infrastructure\\RoutingMidleware.cs",
+              "RelativeToolTip": "Infrastructure\\RoutingMidleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:22:15.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\classwork\\25.06\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\step\\ASP.net\\classwork\\25.06\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:21:38.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenExtensions.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\classwork\\25.06\\Infrastructure\\TokenExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\TokenExtensions.cs",
+              "ToolTip": "D:\\step\\ASP.net\\classwork\\25.06\\Infrastructure\\TokenExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\TokenExtensions.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:16:15.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

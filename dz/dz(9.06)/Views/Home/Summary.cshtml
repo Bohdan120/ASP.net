@@ -1,0 +1,25 @@
+﻿@model SummaryViewModel
+
+<div>
+    <h2>Personal Information</h2>
+    <p>@Model.PersonalInfo.FirstName @Model.PersonalInfo.LastName</p>
+    <p>@Model.PersonalInfo.Age</p>
+    <p>@Model.PersonalInfo.Specialization</p>
+    <p>@Model.PersonalInfo.ContactInfo</p>
+</div>
+
+<div>
+    <h2>Professional Skills</h2>
+    <p>@Model.ProfessionalSkills.SkillsDescription</p>
+</div>
+
+<div>
+    <h2>Test Questions</h2>
+    <ul>
+        @foreach (var question in Model.TestQuestions)
+        {
+            <li>@question.QuestionText: @question.Answer</li>
+        }
+    </ul>
+</div>
+

@@ -1,0 +1,94 @@
+﻿@model Survey
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Survey Form</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <form id="surveyForm" asp-action="Index" method="post">
+        <div>
+            <label asp-for="Name">Ім'я:</label>
+            <input asp-for="Name" id="name">
+            <span asp-validation-for="Name" class="text-danger"></span>
+            <span class="error" id="nameError"></span>
+        </div>
+        <div>
+            <label asp-for="Age">Вік:</label>
+            <input asp-for="Age" id="age">
+            <span asp-validation-for="Age" class="text-danger"></span>
+            <span class="error" id="ageError"></span>
+        </div>
+        <div>
+            <label asp-for="Email">Електронна пошта:</label>
+            <input asp-for="Email" id="email">
+            <span asp-validation-for="Email" class="text-danger"></span>
+            <span class="error" id="emailError"></span>
+        </div>
+        <div>
+            <label>Рівень задоволеності:</label>
+            <input type="radio" asp-for="Satisfaction" name="satisfaction" value="Високий"> Високий
+            <input type="radio" asp-for="Satisfaction" name="satisfaction" value="Середній"> Середній
+            <input type="radio" asp-for="Satisfaction" name="satisfaction" value="Низький"> Низький
+            <span asp-validation-for="Satisfaction" class="text-danger"></span>
+            <span class="error" id="satisfactionError"></span>
+        </div>  
+        <div>
+            <label asp-for="Suggestions">Пропозиції:</label>
+            <textarea asp-for="Suggestions" id="suggestions"></textarea>
+            <span asp-validation-for="Suggestions" class="text-danger"></span>
+            <span class="error" id="suggestionsError"></span>
+        </div>
+        <button type="submit">Відправити</button>
+    </form>
+
+    <script>
+        $(document).ready(function () {
+            $('#surveyForm').on('submit', function (event) {
+                let isValid = true;
+                
+                let name = $('#name').val();
+                if (name.length < 2) {
+                    isValid = false;
+                    $('#nameError').text("Ім'я повинно містити не менше 2 символів");
+                } else {
+                    $('#nameError').text("");
+                }
+
+                let age = $('#age').val();
+                if (age < 18 || age > 99) {
+                    isValid = false;
+                    $('#ageError').text("Вік повинен бути в межах 18-99 років");
+                } else {
+                    $('#ageError').text("");
+                }             
+
+                if (!$('input[name="satisfaction"]:checked').val()) {
+                    isValid = false;
+                    $('#satisfactionError').text("Рівень задоволеності повинен бути обраним");
+                } else {
+                    $('#satisfactionError').text("");
+                }
+
+
+                let suggestions = $('#suggestions').val();
+                if (suggestions.length > 500) {
+                    isValid = false;
+                    $('#suggestionsError').text("Пропозиції не можуть містити більше 500 символів");
+                } else {
+                    $('#suggestionsError').text("");
+                }
+
+                if (!isValid) {
+                    event.preventDefault();
+                }
+            });
+        });
+    </script>
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+    }
+</body>
+</html>

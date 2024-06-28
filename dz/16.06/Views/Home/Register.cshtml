@@ -1,0 +1,64 @@
+﻿@model RegistrationModel
+
+
+<h2>Registration Form</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.UserName)
+        @Html.TextBoxFor(m => m.UserName)
+        @Html.ValidationMessageFor(m => m.UserName)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Password)
+        @Html.PasswordFor(m => m.Password)
+        @Html.ValidationMessageFor(m => m.Password)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Gender)
+        @Html.RadioButtonFor(m => m.Gender, "Male") Male
+        @Html.RadioButtonFor(m => m.Gender, "Female") Female
+        @Html.ValidationMessageFor(m => m.Gender)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Address)
+        @Html.TextAreaFor(m => m.Address)
+        @Html.ValidationMessageFor(m => m.Address)
+    </div>
+
+    <div>
+        @Html.Label("Hobbies")
+        <div>
+            @Html.CheckBoxFor(m => m.HobbyCricket) Cricket
+            @Html.ValidationMessageFor(m => m.HobbyCricket)
+        </div>
+        <div>
+            @Html.CheckBoxFor(m => m.HobbyDancing) Dancing
+            @Html.ValidationMessageFor(m => m.HobbyDancing)
+        </div>
+        <div>
+            @Html.CheckBoxFor(m => m.HobbyDrawing) Drawing
+            @Html.ValidationMessageFor(m => m.HobbyDrawing)
+        </div>
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Course)
+        @Html.DropDownListFor(m => m.Course, new SelectList(new[] { "BCA", "BSc", "BA" }))
+        @Html.ValidationMessageFor(m => m.Course)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Skills)
+        @Html.ListBoxFor(m => m.Skills, new MultiSelectList(new[] { "C#", "ASP.NET", "ASP.NET Core", "Azure" }))
+        @Html.ValidationMessageFor(m => m.Skills)
+    </div>
+
+    <div>
+        <button type="submit">Надіслати</button>
+    </div>
+}

@@ -1,0 +1,10 @@
+﻿@model ProfessionalSkills
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.SkillsDescription)
+        @Html.TextAreaFor(m => m.SkillsDescription)
+    </div>
+    <button type="submit">Next</button>
+}

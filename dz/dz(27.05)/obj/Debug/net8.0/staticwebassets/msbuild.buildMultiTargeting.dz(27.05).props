@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dz(27.05).props" />
+</Project>

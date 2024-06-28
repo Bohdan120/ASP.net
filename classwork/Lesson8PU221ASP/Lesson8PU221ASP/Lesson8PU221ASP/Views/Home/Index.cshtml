@@ -1,0 +1,13 @@
+﻿@using Lesson8PU221ASP.Infrastructure
+@using static Lesson8PU221ASP.Infrastructure.ProductTableTagHelper
+@{
+    List<Product> products = new List<Product> {
+       new Product(1, "Phone", 23000),
+       new Product(2, "Tablet", 8900),
+       new Product(3, "Laptop", 34000),
+       new Product(4, "TV", 50000)
+    };
+
+}
+
+<product-table elements="products"></product-table>

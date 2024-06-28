@@ -1,0 +1,13 @@
+﻿@model TestQuestion
+
+@using (Html.BeginForm())
+{
+    <div>
+        <p>@Model.QuestionText</p>
+        <input type="hidden" name="id" value="@Model.Id" />
+        <div>
+            @Html.TextBox("answer")
+        </div>
+    </div>
+    <button type="submit">Next</button>
+}

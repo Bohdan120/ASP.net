@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\step\\ASP.net\\dz\\dz(9.06)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CE8962-D165-4632-BDBE-240AA064B12E}|dz(7.06).csproj|d:\\step\\asp.net\\dz\\dz(9.06)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CE8962-D165-4632-BDBE-240AA064B12E}|dz(7.06).csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CE8962-D165-4632-BDBE-240AA064B12E}|dz(7.06).csproj|d:\\step\\asp.net\\dz\\dz(9.06)\\views\\home\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9CE8962-D165-4632-BDBE-240AA064B12E}|dz(7.06).csproj|solutionrelative:views\\home\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CE8962-D165-4632-BDBE-240AA064B12E}|dz(7.06).csproj|d:\\step\\asp.net\\dz\\dz(9.06)\\models\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CE8962-D165-4632-BDBE-240AA064B12E}|dz(7.06).csproj|solutionrelative:models\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CE8962-D165-4632-BDBE-240AA064B12E}|dz(7.06).csproj|d:\\step\\asp.net\\dz\\dz(9.06)\\models\\infocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CE8962-D165-4632-BDBE-240AA064B12E}|dz(7.06).csproj|solutionrelative:models\\infocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CE8962-D165-4632-BDBE-240AA064B12E}|dz(7.06).csproj|d:\\step\\asp.net\\dz\\dz(9.06)\\models\\professionalskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CE8962-D165-4632-BDBE-240AA064B12E}|dz(7.06).csproj|solutionrelative:models\\professionalskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CE8962-D165-4632-BDBE-240AA064B12E}|dz(7.06).csproj|d:\\step\\asp.net\\dz\\dz(9.06)\\models\\summaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CE8962-D165-4632-BDBE-240AA064B12E}|dz(7.06).csproj|solutionrelative:models\\summaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CE8962-D165-4632-BDBE-240AA064B12E}|dz(7.06).csproj|d:\\step\\asp.net\\dz\\dz(9.06)\\models\\testquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CE8962-D165-4632-BDBE-240AA064B12E}|dz(7.06).csproj|solutionrelative:models\\testquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestQuestion.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\dz\\dz(9.06)\\Models\\TestQuestion.cs",
+              "RelativeDocumentMoniker": "Models\\TestQuestion.cs",
+              "ToolTip": "D:\\step\\ASP.net\\dz\\dz(9.06)\\Models\\TestQuestion.cs",
+              "RelativeToolTip": "Models\\TestQuestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:50:16.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SummaryViewModel.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\dz\\dz(9.06)\\Models\\SummaryViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\SummaryViewModel.cs",
+              "ToolTip": "D:\\step\\ASP.net\\dz\\dz(9.06)\\Models\\SummaryViewModel.cs",
+              "RelativeToolTip": "Models\\SummaryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:50:10.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfessionalSkills.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\dz\\dz(9.06)\\Models\\ProfessionalSkills.cs",
+              "RelativeDocumentMoniker": "Models\\ProfessionalSkills.cs",
+              "ToolTip": "D:\\step\\ASP.net\\dz\\dz(9.06)\\Models\\ProfessionalSkills.cs",
+              "RelativeToolTip": "Models\\ProfessionalSkills.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:49:53.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfoContext.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\dz\\dz(9.06)\\Models\\InfoContext.cs",
+              "RelativeDocumentMoniker": "Models\\InfoContext.cs",
+              "ToolTip": "D:\\step\\ASP.net\\dz\\dz(9.06)\\Models\\InfoContext.cs",
+              "RelativeToolTip": "Models\\InfoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:49:52.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonalInfo.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\dz\\dz(9.06)\\Models\\PersonalInfo.cs",
+              "RelativeDocumentMoniker": "Models\\PersonalInfo.cs",
+              "ToolTip": "D:\\step\\ASP.net\\dz\\dz(9.06)\\Models\\PersonalInfo.cs",
+              "RelativeToolTip": "Models\\PersonalInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:49:45.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "D:\\step\\ASP.net\\dz\\dz(9.06)\\Views\\Home\\Summary.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Summary.cshtml",
+              "ToolTip": "D:\\step\\ASP.net\\dz\\dz(9.06)\\Views\\Home\\Summary.cshtml",
+              "RelativeToolTip": "Views\\Home\\Summary.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T12:40:08.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\step\\ASP.net\\dz\\dz(9.06)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\step\\ASP.net\\dz\\dz(9.06)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA4wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:36:41.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
